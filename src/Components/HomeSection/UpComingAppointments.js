@@ -15,22 +15,22 @@ const UpComingAppointments = () => {
           <h2> Dr.Albert Flores </h2>
           <p>Cardiologist</p>
           <div>
-            
+
             <div className="date-container">
               <p>
-            <MdDateRange />
-               17Aug
-          
-            </p>
+                <MdDateRange />
+                17Aug
+
+              </p>
             </div>
             <div className="date-container">
-          <p>
-              <BiTime />
-              17Aug
-            </p>
+              <p>
+                <BiTime />
+                17Aug
+              </p>
+            </div>
           </div>
         </div>
-      </div>
       </div>
     </section>
   );

@@ -6,7 +6,7 @@
 
 .search {
   position: relative;
-  background-color: rgb(199 169 231) !important;
+  background-color: rgb(199 169 231);
   text-align: left;
   color: rgb(0, 0, 0);
   font-family: "Roboto";
@@ -16,7 +16,7 @@
   padding-top: 1rem;
   padding-bottom: 1rem;
   border-radius: 15px;
-  border-width: 0px !important;
+  border-width: 0px;
   width: 100vw;
 }
 

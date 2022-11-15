@@ -1,4 +1,4 @@
-import {AiOutlineApple} from 'react-icons/ai';
+import { AiOutlineApple } from 'react-icons/ai';
 const Discounts = () => {
   return (
     <>
@@ -7,22 +7,22 @@ const Discounts = () => {
         <div className="container5">
           <h2 className="discount-heading">
             Comprehensive cardiological examination
-            </h2>
-            <div className="discount-container1">
-              <span className="discount-span">
-               <AiOutlineApple />
-                  VIVA
-               </span>
-              <div className="percentage">
-                
-                -20%
-            
-              </div>
-        
-        </div>
-      </div>{" "}
+          </h2>
+          <div className="discount-container1">
+            <span className="discount-span">
+              <AiOutlineApple />
+              VIVA
+            </span>
+            <div className="percentage">
+
+              -20%
+
+            </div>
+
+          </div>
+        </div>{" "}
       </div>
-      </>
+    </>
   );
 };
 export default Discounts;

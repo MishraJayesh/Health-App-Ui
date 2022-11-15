@@ -1,14 +1,10 @@
 import React from "react";
-
 import { Routes, Route } from "react-router-dom";
-
 import Navbar from "./Components/Layout/Navbar";
 import Header from "./Components/Layout/Header";
-
 import "./css/App.css";
 import "./css/index.css";
 import "./css/layout.css";
-
 import "./css/home.css";
 import Appointment from "./Pages/appointments";
 import Chat from "./Pages/chat";
@@ -22,7 +18,6 @@ const App = () => {
       <div className="app-container">
         <Routes>
           <Route path="/" element={<Home />}></Route>
-
           <Route path="/appointments" element={<Appointment />}></Route>
           <Route path="/chat" element={<Chat />}></Route>
           <Route path="/labs" element={<Labs />}></Route>

@@ -28,7 +28,7 @@ const MyAccount = () => {
             <a href="https://www.facebook.com/jkl2050jkl">
               <img src="https://www.citypng.com/public/uploads/preview/-11595348475afojr7xq7i.png" alt="facebook" />
             </a>
-            <a href="https://www.instagram.com/jay_20_esh/?hl=en">
+            <a href="https://www.instagram.com/jayeshmishra562/?hl=en">
               <img src="https://img.icons8.com/material-rounded/384/instagram-new.png" alt="instagram" />
             </a>
           </div>

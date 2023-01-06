@@ -63,9 +63,9 @@
 .percentage {
   background-color: rgb(47, 27, 67);
   width: 80px;
-  display:flex;
+  display: flex;
   justify-content: space-between;
-  text-align:end;
+  text-align: end;
   border-radius: 5px;
   color: aliceblue;
 }
